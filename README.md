@@ -10,8 +10,8 @@ The dataset used for this task is [worldpopulationdata.csv](https://github.com/u
 - Matplotlib & Seaborn for visualization
 # Exploratory Data Analysis(EDA)
 During the EDA process, I performed the following steps:
-- 1.Data Cleaning : Checked for missing values,duplicates,and outliers inthe dataset and handles them accordingly.
-- 2. Visualization : Created a bar chart,stacked chart to visualize the distribution of a categorical or continous variable.
+-  1.Data Cleaning : Checked for missing values,duplicates,and outliers inthe dataset and handles them accordingly.
+-  2. Visualization : Created a bar chart,stacked chart to visualize the distribution of a categorical or continous variable.
 # Conclusion
 In conclusion , this EDA process provided valuable insights into the distribution of the selected variable in the dataset.This analysis lays the foundation for further exploration and modeling tasks in the data science workflow.
 Thank you for reviewing my submission!
